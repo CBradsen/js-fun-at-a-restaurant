@@ -17,7 +17,6 @@ function addIngredients(item, ingredientsList) {
   if (ingredientsList.includes(item) === false) {
       ingredientsList.push(item);
   }
-  
 }
 
 function formatPrice(price) {
