@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project we worked with variables, primitive
+In this solo project I worked with variables, primitive
 data types, looping, arrays, and objects. 
 
 ## Learning goals
